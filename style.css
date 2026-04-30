@@ -596,9 +596,9 @@ body {
 }
 .toast.show { transform: translateY(0); opacity: 1; }
 
-/* ===========================
+/* ==========================
    RESPONSIVE
-   =========================== */
+   ========================== */
 @media (max-width: 1200px) {
   .kpi-grid { grid-template-columns: repeat(2,1fr); }
   .charts-row { grid-template-columns: 1fr; }
